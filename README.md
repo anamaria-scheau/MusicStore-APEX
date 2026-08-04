@@ -162,7 +162,7 @@ The complete project documentation includes:
 -  **SQL DDL Script** (Complete CREATE statements)
 -  **Application Screenshots** (All pages and components)
 
-**[ View Full Documentation](MusicStore APEX.pdf)**
+
 
 ---
 
@@ -195,7 +195,6 @@ CLIENT_CLIENT_ID_SEQ
 CLIENT_CLIENT_ID_TRG
 ```
 
-**[ View DDL Script](ddl proiect.ddl)**
 
 ---
 
